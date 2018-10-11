@@ -7,4 +7,5 @@ def my_each(array) # put argument(s) here
       i += 1
     end
     return array
+  end
 end
